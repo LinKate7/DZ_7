@@ -1,0 +1,5 @@
+/Users/katelagoda/Documents/ооп/Prototype/Prototype/obj/Debug/net7.0/Prototype.csproj.AssemblyReference.cache
+/Users/katelagoda/Documents/ооп/Prototype/Prototype/obj/Debug/net7.0/Prototype.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katelagoda/Documents/ооп/Prototype/Prototype/obj/Debug/net7.0/Prototype.AssemblyInfoInputs.cache
+/Users/katelagoda/Documents/ооп/Prototype/Prototype/obj/Debug/net7.0/Prototype.AssemblyInfo.cs
+/Users/katelagoda/Documents/ооп/Prototype/Prototype/obj/Debug/net7.0/Prototype.csproj.CoreCompileInputs.cache
