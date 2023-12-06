@@ -1,0 +1,15 @@
+/Users/katelagoda/Documents/ооп/Decorator/Decorator/bin/Debug/net7.0/Decorator
+/Users/katelagoda/Documents/ооп/Decorator/Decorator/bin/Debug/net7.0/Decorator.deps.json
+/Users/katelagoda/Documents/ооп/Decorator/Decorator/bin/Debug/net7.0/Decorator.runtimeconfig.json
+/Users/katelagoda/Documents/ооп/Decorator/Decorator/bin/Debug/net7.0/Decorator.dll
+/Users/katelagoda/Documents/ооп/Decorator/Decorator/bin/Debug/net7.0/Decorator.pdb
+/Users/katelagoda/Documents/ооп/Decorator/Decorator/obj/Debug/net7.0/Decorator.csproj.AssemblyReference.cache
+/Users/katelagoda/Documents/ооп/Decorator/Decorator/obj/Debug/net7.0/Decorator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katelagoda/Documents/ооп/Decorator/Decorator/obj/Debug/net7.0/Decorator.AssemblyInfoInputs.cache
+/Users/katelagoda/Documents/ооп/Decorator/Decorator/obj/Debug/net7.0/Decorator.AssemblyInfo.cs
+/Users/katelagoda/Documents/ооп/Decorator/Decorator/obj/Debug/net7.0/Decorator.csproj.CoreCompileInputs.cache
+/Users/katelagoda/Documents/ооп/Decorator/Decorator/obj/Debug/net7.0/Decorator.dll
+/Users/katelagoda/Documents/ооп/Decorator/Decorator/obj/Debug/net7.0/refint/Decorator.dll
+/Users/katelagoda/Documents/ооп/Decorator/Decorator/obj/Debug/net7.0/Decorator.pdb
+/Users/katelagoda/Documents/ооп/Decorator/Decorator/obj/Debug/net7.0/Decorator.genruntimeconfig.cache
+/Users/katelagoda/Documents/ооп/Decorator/Decorator/obj/Debug/net7.0/ref/Decorator.dll
