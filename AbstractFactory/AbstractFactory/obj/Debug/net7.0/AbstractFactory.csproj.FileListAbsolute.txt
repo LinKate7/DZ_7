@@ -1,0 +1,15 @@
+/Users/katelagoda/Documents/ооп/AbstractFactory/AbstractFactory/bin/Debug/net7.0/AbstractFactory
+/Users/katelagoda/Documents/ооп/AbstractFactory/AbstractFactory/bin/Debug/net7.0/AbstractFactory.deps.json
+/Users/katelagoda/Documents/ооп/AbstractFactory/AbstractFactory/bin/Debug/net7.0/AbstractFactory.runtimeconfig.json
+/Users/katelagoda/Documents/ооп/AbstractFactory/AbstractFactory/bin/Debug/net7.0/AbstractFactory.dll
+/Users/katelagoda/Documents/ооп/AbstractFactory/AbstractFactory/bin/Debug/net7.0/AbstractFactory.pdb
+/Users/katelagoda/Documents/ооп/AbstractFactory/AbstractFactory/obj/Debug/net7.0/AbstractFactory.csproj.AssemblyReference.cache
+/Users/katelagoda/Documents/ооп/AbstractFactory/AbstractFactory/obj/Debug/net7.0/AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katelagoda/Documents/ооп/AbstractFactory/AbstractFactory/obj/Debug/net7.0/AbstractFactory.AssemblyInfoInputs.cache
+/Users/katelagoda/Documents/ооп/AbstractFactory/AbstractFactory/obj/Debug/net7.0/AbstractFactory.AssemblyInfo.cs
+/Users/katelagoda/Documents/ооп/AbstractFactory/AbstractFactory/obj/Debug/net7.0/AbstractFactory.csproj.CoreCompileInputs.cache
+/Users/katelagoda/Documents/ооп/AbstractFactory/AbstractFactory/obj/Debug/net7.0/AbstractFactory.dll
+/Users/katelagoda/Documents/ооп/AbstractFactory/AbstractFactory/obj/Debug/net7.0/refint/AbstractFactory.dll
+/Users/katelagoda/Documents/ооп/AbstractFactory/AbstractFactory/obj/Debug/net7.0/AbstractFactory.pdb
+/Users/katelagoda/Documents/ооп/AbstractFactory/AbstractFactory/obj/Debug/net7.0/AbstractFactory.genruntimeconfig.cache
+/Users/katelagoda/Documents/ооп/AbstractFactory/AbstractFactory/obj/Debug/net7.0/ref/AbstractFactory.dll
