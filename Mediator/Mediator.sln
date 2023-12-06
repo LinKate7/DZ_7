@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator", "Mediator\Mediator.csproj", "{8E65D11D-E863-41F3-970A-B5442EB83F29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E65D11D-E863-41F3-970A-B5442EB83F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E65D11D-E863-41F3-970A-B5442EB83F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E65D11D-E863-41F3-970A-B5442EB83F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E65D11D-E863-41F3-970A-B5442EB83F29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {361BDA2F-E327-4A2D-A117-C227CD1D590E}
+	EndGlobalSection
+EndGlobal

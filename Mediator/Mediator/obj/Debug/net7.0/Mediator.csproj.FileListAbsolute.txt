@@ -1,0 +1,15 @@
+/Users/katelagoda/Documents/ооп/Mediator/Mediator/bin/Debug/net7.0/Mediator
+/Users/katelagoda/Documents/ооп/Mediator/Mediator/bin/Debug/net7.0/Mediator.deps.json
+/Users/katelagoda/Documents/ооп/Mediator/Mediator/bin/Debug/net7.0/Mediator.runtimeconfig.json
+/Users/katelagoda/Documents/ооп/Mediator/Mediator/bin/Debug/net7.0/Mediator.dll
+/Users/katelagoda/Documents/ооп/Mediator/Mediator/bin/Debug/net7.0/Mediator.pdb
+/Users/katelagoda/Documents/ооп/Mediator/Mediator/obj/Debug/net7.0/Mediator.csproj.AssemblyReference.cache
+/Users/katelagoda/Documents/ооп/Mediator/Mediator/obj/Debug/net7.0/Mediator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katelagoda/Documents/ооп/Mediator/Mediator/obj/Debug/net7.0/Mediator.AssemblyInfoInputs.cache
+/Users/katelagoda/Documents/ооп/Mediator/Mediator/obj/Debug/net7.0/Mediator.AssemblyInfo.cs
+/Users/katelagoda/Documents/ооп/Mediator/Mediator/obj/Debug/net7.0/Mediator.csproj.CoreCompileInputs.cache
+/Users/katelagoda/Documents/ооп/Mediator/Mediator/obj/Debug/net7.0/Mediator.dll
+/Users/katelagoda/Documents/ооп/Mediator/Mediator/obj/Debug/net7.0/refint/Mediator.dll
+/Users/katelagoda/Documents/ооп/Mediator/Mediator/obj/Debug/net7.0/Mediator.pdb
+/Users/katelagoda/Documents/ооп/Mediator/Mediator/obj/Debug/net7.0/Mediator.genruntimeconfig.cache
+/Users/katelagoda/Documents/ооп/Mediator/Mediator/obj/Debug/net7.0/ref/Mediator.dll
